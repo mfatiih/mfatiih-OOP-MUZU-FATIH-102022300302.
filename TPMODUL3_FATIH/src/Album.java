@@ -8,7 +8,7 @@ import javafx.scene.Node;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Scene;
 
-public class LoginController {
+public class Album {
     @FXML
     private TextField usernameField;
     @FXML
